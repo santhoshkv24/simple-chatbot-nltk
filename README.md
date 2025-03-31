@@ -40,7 +40,6 @@ python chatbot.py
 📁 SRM_AP_Chatbot
  ├── chatbot.py       # Main chatbot logic
  ├── data.txt         # Dataset with SRM AP-related information
- ├── requirements.txt # Dependencies
  ├── README.md        # Project documentation
 ```
 
