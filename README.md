@@ -1,4 +1,4 @@
-SRM AP Chatbot  
+SRM AP Chatbot
 
 📌 Overview  
 The SRM AP Chatbot is an interactive chatbot designed to assist users with queries related to SRM University, AP. It uses Natural Language Processing (NLP) techniques with NLTK (Natural Language Toolkit) and TF-IDF vectorization to provide accurate responses based on predefined text data.  
@@ -43,10 +43,6 @@ python chatbot.py
  ├── requirements.txt # Dependencies
  ├── README.md        # Project documentation
 ```
-
-📌 References  
-- GitHub Repository: [Simple Chatbot using NLTK](https://github.com/santhoshkv24/simple-chatbot-nltk/)  
-- Dataset: Custom dataset containing SRM AP-related information.  
 
 🤝 Contributing  
 Feel free to fork the repo, make improvements, and submit a pull request!
