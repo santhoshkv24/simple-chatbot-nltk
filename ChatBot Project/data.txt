@@ -3,6 +3,7 @@ SRM AP (Sri Ramaswamy Memorial University, Andhra Pradesh) is a private universi
 International
 SRM AP has collaborations with top global universities like MIT, UC Berkeley, Illinois Institute of Technology, and More for student exchange programs, semester abroad programs, and research collaborations.
 
+<<<<<<< HEAD
 Total Area
 The SRM AP campus spans over 200 acres in Amaravati, Andhra Pradesh.
 
@@ -72,3 +73,75 @@ The university provides buses for students and faculty from Vijayawada and nearb
 Vijayawada Railway Station
 SRM AP is about 25 km from Vijayawada Railway Station.
 
+=======
+Grading
+SRM AP follows a CGPA-based grading system, exams are conducted in offline and online modes, including mid-semester tests, practical exams, and end-semester exams.
+
+Ratio
+The faculty-to-student ratio is around 1:15, ensuring good interaction between students and professors.
+
+
+Total Area
+The SRM AP campus spans over 200 acres in Amaravati, Andhra Pradesh.
+
+Fests
+SRM AP hosts Aloha (Freshers Fest) and Infinitus (Cultural Fest), along with various hackathons, innovation summits, and sports competitions.
+
+Application
+You can apply online through the SRM University Admissions Portal, Admission is based on SRMJEEE, JEE Main, or EAMCET, Direct admission is available for high-merit students.
+
+Eligibility
+Candidates must have passed 10+2 or equivalent with at least 60% marks in Physics, Chemistry, and Mathematics for Science and 60% overall for other streams.
+
+Fee Structure
+The tuition fee varies by program for B.Tech (CSE), the fee is around ₹3-3.5 lakhs per year Other branches may have slightly lower fees.
+
+Scholarships
+Scholarships are available based on SRMJEEE rank, academic performance, sports, and research achievements.
+
+SRMJEEE
+It is a university-level remote proctored online exam conducted for admission to BTech courses offered at SRM campuses, SRMJEEE includes questions from Physics, Chemistry, Mathematics (or Biology for Bio-related courses), English, and Aptitude.
+
+Infrastructure
+SRM AP boasts a state-of-the-art campus spread over a large area with modern classrooms, well-equipped laboratories, a central library, and hostels with high-speed internet connectivity. The campus also features sports-facilities, recreational areas, and cafeterias for students.
+
+Placement
+SRM AP has a strong placement record, with many students placed in top MNCs and startups, 
+Major recruiters include Microsoft, JP Morgan, Amazon, TCS, Infosys, Deloitte, Cognizant, IBM, Google, and Wipro.
+The highest package offered has been ₹44 LPA (Microsoft), and the average package is around ₹7-8 LPA for CSE students.
+Students get internship opportunities in startups, research labs, and MNCs and some internships also provide stipends.
+
+
+
+Hostel
+SRM AP offers hostel facilities with both AC and Non-AC for both Boys and Girls, with comfortable accommodations and dining services.
+
+Food and Mess
+The Hostel Mess serves Indian and international cuisine, including vegetarian and non-vegetarian food, There are multiple food courts and cafes on campus.
+
+Sports and extracurricular
+SRM AP offers football, cricket, basketball, badminton, table tennis, and other sports, There are cultural clubs, coding clubs, and music societies. 
+The campus has a fully equipped gym for students and faculty.
+
+Medical facilities
+SRM AP has a health center with doctors available 24/7, Emergency medical support is also available.
+
+
+
+Labs
+The university has advanced research labs, AI and robotics labs, IoT labs, and biotech research centers.
+
+Startup
+SRM AP has a startup incubation center to support student entrepreneurs with funding, mentorship, and resources.
+
+
+
+
+
+
+Transport
+The university provides buses for students and faculty from Vijayawada and nearby cities.
+
+Vijayawada Railway Station
+SRM AP is about 25 km from Vijayawada Railway Station.
+>>>>>>> fc63a78ca0989dc62e010d817171933235aae655
