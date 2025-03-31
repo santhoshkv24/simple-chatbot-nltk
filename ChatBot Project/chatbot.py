@@ -1,9 +1,7 @@
 # Import necessary libraries
-import io
 import random
 import string # To process standard python strings
 import warnings
-import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import warnings
@@ -17,7 +15,7 @@ nltk.download('popular', quiet=True) #for downloading packages
 # nltk.download('wordnet') # One-time Download
 
 
-#Reading in the corpus
+# Reading in the dataset file
 with open('./data.txt','r', encoding='utf8', errors ='ignore') as fin:
     raw = fin.read().lower()
 
@@ -74,8 +72,8 @@ while(flag==True):
             flag=False
             print("Tomy : You are welcome..")
         else:
-            if(greeting(user_response)!=None):
-                print("Tomy : "+greeting(user_response))
+            if(greeting(user_response) != None):
+                print("Tomy : " + greeting(user_response))
             else:
                 print("Tomy : ",end="")
                 print(response(user_response))
